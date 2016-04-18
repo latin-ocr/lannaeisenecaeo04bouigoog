@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./lannaeisenecaeo04bouigoog_0389.png"; bbox 0 0 2667 4475; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 432 1886 2542 2045">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 432 1886 2542 2045">
+     <span class='ocr_line' id='line_1_1' title="bbox 494 1886 2542 1963; baseline 0.001 -22"><span class='ocrx_word' id='word_1_1' title='bbox 494 1890 565 1941; x_wconf 75' lang='lat' dir='ltr'>N.</span> <span class='ocrx_word' id='word_1_2' title='bbox 582 1888 749 1942; x_wconf 77' lang='lat' dir='ltr'>B-De</span> <span class='ocrx_word' id='word_1_3' title='bbox 770 1886 1100 1941; x_wconf 72' lang='lat' dir='ltr'>hisomnibm</span> <span class='ocrx_word' id='word_1_4' title='bbox 1119 1900 1530 1960; x_wconf 66' lang='lat' dir='ltr'>quateqmtur</span> <span class='ocrx_word' id='word_1_5' title='bbox 1547 1886 1824 1961; x_wconf 63' lang='lat' dir='ltr'><strong>Epistola,</strong></span> <span class='ocrx_word' id='word_1_6' title='bbox 1843 1887 1962 1942; x_wconf 80' lang='lat' dir='ltr'>vide</span> <span class='ocrx_word' id='word_1_7' title='bbox 1978 1889 2060 1957; x_wconf 77' lang='grc' dir='ltr'>,εἰ</span> <span class='ocrx_word' id='word_1_8' title='bbox 2083 1890 2288 1963; x_wconf 68' lang='lat' dir='ltr'>placet,</span> <span class='ocrx_word' id='word_1_9' title='bbox 2305 1892 2542 1947; x_wconf 61' lang='lat' dir='ltr'>douln</span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 432 1970 1926 2045; baseline -0.001 -18"><span class='ocrx_word' id='word_1_10' title='bbox 432 1971 865 2045; x_wconf 62' lang='lat' dir='ltr'>prefatiuncula!</span> <span class='ocrx_word' id='word_1_11' title='bbox 888 1971 1039 2025; x_wconf 79' lang='grc' dir='ltr'><strong>ἱιιίιίο</strong></span> <span class='ocrx_word' id='word_1_12' title='bbox 1058 1971 1211 2045; x_wconf 71' lang='lat' dir='ltr'><strong>hujus</strong></span> <span class='ocrx_word' id='word_1_13' title='bbox 1228 1971 1504 2027; x_wconf 70' lang='lat' dir='ltr'>voluminis</span> <span class='ocrx_word' id='word_1_14' title='bbox 1526 1970 1798 2045; x_wconf 67' lang='lat' dir='ltr'><strong>pmfinm.</strong></span> <span class='ocrx_word' id='word_1_15' title='bbox 1819 1971 1926 2025; x_wconf 55' lang='lat' dir='ltr'>En»</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 2636 0 2638 539">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 2636 0 2638 539">
+     <span class='ocr_line' id='line_1_3' title="bbox 2636 0 2638 539; baseline 0 0"><span class='ocrx_word' id='word_1_16' title='bbox 2636 0 2638 539; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
